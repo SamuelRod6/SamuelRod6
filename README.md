@@ -1,4 +1,4 @@
-# Hi!, I'm Samuel 👋
+# Hello there! I'm Samuel 👋
 
 ## I'm a Student and Developer!!
 
