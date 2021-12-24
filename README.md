@@ -2,10 +2,9 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning React 🤣
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other fellow developers
-- 🥅 2022 Goals: Develop as a Rect Full-Stack developer
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Develop as a React Full-Stack developer
 
 ### Connect with me:
 
@@ -30,7 +29,7 @@
 <br />
 <br />
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRod6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRod6&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: 
 [twitter]: 
