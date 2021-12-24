@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRod6&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRod6&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: 
 [twitter]: 
